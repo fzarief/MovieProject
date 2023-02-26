@@ -1,0 +1,179 @@
+/*html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}*/
+
+
+/*body {
+  margin-bottom: 60px;
+}
+
+h2 {
+    color : blue;
+}
+
+.kata-1{
+    color : red;
+    text-align : center;
+}
+
+.kata-2{
+    color : blue;
+    margin-left : 10 px;
+    display : inline;
+}
+#kata-3{
+    color : lawngreen;
+    display : inline;
+}*/
+
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: deepskyblue;
+    color: #fff;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    margin-bottom: 2em;
+}
+
+    header img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+
+    header h1 {
+        margin-top: 1em;
+        font-size: 2em;
+    }
+
+    header p {
+        margin-top: 0.5em;
+        font-size: 1.5em;
+    }
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    width: 80%;
+    margin: 2em auto;
+    background-color: #fff;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: left;
+    margin-bottom: 0.5em;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    margin-bottom: 1em;
+    align-items: center;
+    display : inline;
+}
+
+strong {
+    width: 20%;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 0.5em;
+}
+
+p {
+    text-align: left;
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: slategrey;
+    text-decoration: none;
+}
+
+a:hover {
+     color: lightseagreen;
+}
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+    width: 25%;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.bar {
+    height: 20px;
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 0.5em;
+}
+
+.html {
+    height: 20px;
+    width: 70%;
+    background-color: #ff69b4;
+}
+
+.css {
+    height: 20px;
+    width: 80%;
+    background-color: #0072ff;
+}
+
+.javascript {
+    height: 20px;
+    width: 90%;
+    background-color: #ffd700;
+}
+
+.react {
+    height: 20px;
+    width: 60%;
+    background-color: #00d8ff;
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        background-color: red;
+
+    }
+}*/
+.done {
+    text-decoration: line-through;
+}
